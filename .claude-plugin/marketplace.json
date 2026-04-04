@@ -1,0 +1,15 @@
+{
+  "name": "shitadel-marketplace",
+  "plugins": [
+    {
+      "name": "postforge",
+      "description": "LinkedIn post pipeline — discover topics, write posts, generate images, prepare drafts.",
+      "source": {
+        "type": "url",
+        "url": "https://github.com/CopyPasteFail/postforge.git",
+        "sha": "6f786b7bf1c433b564c0007c396037d321decb4f"
+      },
+      "homepage": "https://github.com/CopyPasteFail/postforge"
+    }
+  ]
+}
