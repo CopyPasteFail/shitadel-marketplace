@@ -10,6 +10,15 @@
         "sha": "6f786b7bf1c433b564c0007c396037d321decb4f"
       },
       "homepage": "https://github.com/CopyPasteFail/postforge"
+    },
+    {
+      "name": "agents-md-builder",
+      "description": "Generate and review repo-local AGENTS.md files for coding agents.",
+      "source": {
+        "type": "url",
+        "url": "https://github.com/CopyPasteFail/agents-md-builder.git"
+      },
+      "homepage": "https://github.com/CopyPasteFail/agents-md-builder"
     }
   ]
 }
