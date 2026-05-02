@@ -16,7 +16,8 @@
       "description": "Generate and review repo-local AGENTS.md files for coding agents.",
       "source": {
         "type": "url",
-        "url": "https://github.com/CopyPasteFail/agents-md-builder.git"
+        "url": "https://github.com/CopyPasteFail/agents-md-builder.git",
+        "sha": "ed6ecaa754b9115cac9aafc26f25cfaad2978361"
       },
       "homepage": "https://github.com/CopyPasteFail/agents-md-builder"
     }
